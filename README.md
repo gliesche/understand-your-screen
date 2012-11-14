@@ -4,12 +4,10 @@ Prints the values that your browser returns for:
 * screen.height
 * screen.availWidth
 * screen.availHeight
-
 * window.outerWidth
 * window.outerHeight
 * window.innerWidth
 * window.innerHeight
-
 * document.body.clientWidth
 * document.body.clientHeight
 * document.body.offsetWidth
