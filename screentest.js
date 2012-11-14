@@ -1,3 +1,5 @@
+/*jslint evil: true*/
+
 (function(){
 	"use strict";
 
@@ -13,5 +15,4 @@
 	window.onresize = window.onorientationchange = writeValues;
 
 	writeValues();
-
 }());
